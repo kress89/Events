@@ -1,0 +1,6 @@
+DemoEventsApi.class
+hr\kreso\api\model\OrganizationalUnit.class
+hr\kreso\api\model\City.class
+hr\kreso\api\model\Event.class
+hr\kreso\api\model\CitySize.class
+hr\kreso\api\model\OrganizationalType.class
